@@ -21,15 +21,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1x7-covariance-ve-contravar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1x8-Delegates", "1x8-Delegates\1x8-Delegates.csproj", "{11903AA1-8D38-40B3-8C39-2024A06F2764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1x9-Events", "1x9-Events\1x9-Events.csproj", "{C044D9B0-FBB6-4AA8-A004-8D380DF928CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1x9-Events", "1x9-Events\1x9-Events.csproj", "{C044D9B0-FBB6-4AA8-A004-8D380DF928CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1x10-ActionFuncPredicate", "1x10-ActionFuncPredicate\1x10-ActionFuncPredicate.csproj", "{76F64C15-9CC6-42F4-BC7F-DF8D479CC0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1x10-ActionFuncPredicate", "1x10-ActionFuncPredicate\1x10-ActionFuncPredicate.csproj", "{76F64C15-9CC6-42F4-BC7F-DF8D479CC0E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1x11-anonymousStructres", "1x11-anonymousStructres\1x11-anonymousStructres.csproj", "{747C58FD-0CFE-493D-BE11-17F5F433313D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1x11-anonymousStructres", "1x11-anonymousStructres\1x11-anonymousStructres.csproj", "{747C58FD-0CFE-493D-BE11-17F5F433313D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1x12-expandoObject", "1x12-expandoObject\1x12-expandoObject.csproj", "{8DC6B454-7E80-46D4-9618-86B4C2E9318A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1x12-expandoObject", "1x12-expandoObject\1x12-expandoObject.csproj", "{8DC6B454-7E80-46D4-9618-86B4C2E9318A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2x1-ozelTanimlanmisIntefaceler", "2x1-ozelTanimlanmisIntefaceler\2x1-ozelTanimlanmisIntefaceler.csproj", "{80314B0B-C3D5-462C-84E1-5D94102C1482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2x1-ozelTanimlanmisIntefaceler", "2x1-ozelTanimlanmisIntefaceler\2x1-ozelTanimlanmisIntefaceler.csproj", "{80314B0B-C3D5-462C-84E1-5D94102C1482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2x2-iterasyon", "2x2-iterasyon\2x2-iterasyon.csproj", "{F8103CDD-3D34-4D26-A3FB-602F1D12FD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2x3-customCollectionInitialierz", "2x3-customCollectionInitialierz\2x3-customCollectionInitialierz.csproj", "{D652DC2B-B32D-48B1-A6EA-EE23F136DC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2x4-attribute", "2x4-attribute\2x4-attribute.csproj", "{A44A6E73-32F6-4B1F-B9D5-D659E4B86EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2x5-reflection", "2x5-reflection\2x5-reflection.csproj", "{8B590456-C42A-4035-9C5C-6A92F0F3646A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +101,22 @@ Global
 		{80314B0B-C3D5-462C-84E1-5D94102C1482}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80314B0B-C3D5-462C-84E1-5D94102C1482}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80314B0B-C3D5-462C-84E1-5D94102C1482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8103CDD-3D34-4D26-A3FB-602F1D12FD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8103CDD-3D34-4D26-A3FB-602F1D12FD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8103CDD-3D34-4D26-A3FB-602F1D12FD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8103CDD-3D34-4D26-A3FB-602F1D12FD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D652DC2B-B32D-48B1-A6EA-EE23F136DC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D652DC2B-B32D-48B1-A6EA-EE23F136DC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D652DC2B-B32D-48B1-A6EA-EE23F136DC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D652DC2B-B32D-48B1-A6EA-EE23F136DC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44A6E73-32F6-4B1F-B9D5-D659E4B86EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44A6E73-32F6-4B1F-B9D5-D659E4B86EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44A6E73-32F6-4B1F-B9D5-D659E4B86EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44A6E73-32F6-4B1F-B9D5-D659E4B86EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B590456-C42A-4035-9C5C-6A92F0F3646A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B590456-C42A-4035-9C5C-6A92F0F3646A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B590456-C42A-4035-9C5C-6A92F0F3646A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B590456-C42A-4035-9C5C-6A92F0F3646A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
